@@ -63,6 +63,8 @@ footer{
     text-align: center;
     text-decoration: none;
     padding: 5px;
+    display: block;
+    width: 100vw;
 }
 footer a{
     font-weight: bolder;
